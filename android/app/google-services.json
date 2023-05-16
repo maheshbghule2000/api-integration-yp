@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "892300016188",
+    "project_id": "fb-app-69822",
+    "storage_bucket": "fb-app-69822.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892300016188:android:9c5feacc101dbbcec72139",
+        "android_client_info": {
+          "package_name": "com.example.fbapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892300016188-0h8ieal2gf3lmj8mst8k3ltq4h36aaji.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fbapp",
+            "certificate_hash": "5973bbf8e6ee2ced45ef7bd0b925f42702bd5181"
+          }
+        },
+        {
+          "client_id": "892300016188-r7fs31tgj1ts6hti0nlcua813gthv18f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJXLeoynI4CCdAEYwoy9C0dhgTHPk2y5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892300016188-r7fs31tgj1ts6hti0nlcua813gthv18f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
